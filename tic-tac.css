@@ -32,7 +32,7 @@ h1{
     margin: auto;
     margin-top: 20px;
     width: 400px;
-    background: var(--second-bg-color);
+    background: #103813;
     padding: 30px;
     border: 3px solid var(--main-color);
 }
@@ -55,7 +55,7 @@ h1{
     width: 100px;
     height: 100px;
     border: 4px solid var(--main-color);
-    background: var(--second-bg-color);
+    background: #103813;
     transition: .3s;
     cursor: pointer;
 }
